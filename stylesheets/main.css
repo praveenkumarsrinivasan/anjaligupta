@@ -26,12 +26,14 @@
 }
 
 .message {
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
     margin: 0px auto;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 0px;
     text-align: center;
-    width: 500px;
+    max-width: 500px;
 }
 
 .footer {
