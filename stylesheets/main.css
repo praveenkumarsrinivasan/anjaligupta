@@ -1,0 +1,21 @@
+.header {
+    margin: 0;
+    background: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.header .container {
+    text-align: center;
+}
+
+.header .container .logo {
+
+}
+
+.main_content {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
